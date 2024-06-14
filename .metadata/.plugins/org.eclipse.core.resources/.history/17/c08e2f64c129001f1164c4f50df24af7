@@ -1,0 +1,25 @@
+package music;
+
+public class Player implements Tocador {
+
+Player(){
+	System.out.print("Executando APP de Reprodutor de Musica:" );
+}
+
+public void play() {
+	System.out.print(" Tocando ");
+	
+}
+public void returning(){
+	System.out.print(" voltando ");
+	
+}
+public void stop(){
+	System.out.print(" parando ");
+	
+}
+
+
+
+
+}

@@ -1,0 +1,6 @@
+package music;
+
+public class ReprodutorMusical implements Player {
+	public ReprodutorMusical() {
+		}
+}

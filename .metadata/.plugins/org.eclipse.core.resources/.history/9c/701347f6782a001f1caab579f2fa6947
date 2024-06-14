@@ -1,0 +1,8 @@
+package music;
+
+public class ReprodutorMusical extends Player {
+
+	ReprodutorMusical r1 = new ReprodutorMusical();
+	r1.play();
+	 
+}

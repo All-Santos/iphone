@@ -1,0 +1,15 @@
+package music;
+
+public class ReprodutorMusical extends Player {
+	public void play() {
+		System.out.print("t");
+		
+	}
+	public void nest(){
+		System.out.print("n");
+	}
+	public void stop(){
+		System.out.print("s");
+	}
+	 
+}

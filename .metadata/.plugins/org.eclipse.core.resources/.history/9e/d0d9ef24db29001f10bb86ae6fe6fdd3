@@ -1,0 +1,19 @@
+package music;
+
+abstract class Player implements Tocador {
+
+	
+	public void play() {
+		
+	}
+	public void nest(){
+		
+	}
+	public void stop(){
+		
+	}
+
+
+
+
+}

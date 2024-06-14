@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\ew\iphone\.metadata\.plugins\org.eclipse.jdt.core
+1706683330.index
+1724567218.index
+2888365911.index
+1865797976.index

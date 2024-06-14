@@ -1,0 +1,13 @@
+package internet;
+
+public class PaginaInternet implements NavegadorInternet{
+	
+	public PaginaInternet(){
+		System.out.print("Executando ReprodutorMusical: " );
+		  public  exibirPagina(String url) {}
+		  public  adicionarNovaAba() {}
+		  public  atualizarPagina() {}
+	}
+	
+
+}

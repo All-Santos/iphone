@@ -1,0 +1,7 @@
+package modelandoIphoneUml;
+
+import music.Player;
+
+public class ReprodutorMusical implements Player() {
+	public Player(){}
+}

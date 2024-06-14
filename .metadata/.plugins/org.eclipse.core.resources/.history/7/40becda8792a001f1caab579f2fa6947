@@ -1,0 +1,8 @@
+package music;
+
+public class ReprodutorMusical extends Player {
+
+	ReprodutorMusical(){
+		System.out.print("Executando ReprodutorMusical: );
+	}
+}

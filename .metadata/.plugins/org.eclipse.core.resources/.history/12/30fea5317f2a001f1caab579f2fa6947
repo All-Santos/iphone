@@ -1,0 +1,17 @@
+package modelandoIphoneUml;
+import music.ReprodutorMusical;
+
+public class Iphone {
+	public static void main(String[] args) {
+		
+		
+		
+	ReprodutorMusical iphone =new ReprodutorMusical();
+	iphone.tocar();
+	iphone.selecionarMusica("one");
+	iphone.pausar();
+		
+			
+	}
+
+}

@@ -1,0 +1,21 @@
+package music;
+
+abstract class Player implements Tocador {
+
+	
+
+	public void play() {
+		System.out.print("--Tocando musica--> ");
+		
+	}
+	public void nest(){
+		System.out.print("<--Proxima musica-->");
+	}
+	public void stop(){
+		System.out.print("--Parando a musica-- ");
+	}
+
+
+
+
+}

@@ -1,0 +1,5 @@
+package modelandoIphoneUml;
+
+public class ReprodutorMusical implements Player() {
+	public Player(){}
+}

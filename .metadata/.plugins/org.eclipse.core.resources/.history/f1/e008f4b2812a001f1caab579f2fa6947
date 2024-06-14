@@ -1,0 +1,31 @@
+package iphone;
+import music.ReprodutorMusical;
+import call.Telefone;
+import internet.PaginaInternet;
+
+public class Iphone {
+	public static void main(String[] args) {
+		
+		
+		
+	ReprodutorMusical iphone =new ReprodutorMusical();
+	iphone.tocar();
+	iphone.selecionarMusica(null);
+	iphone.pausar();
+		
+	Telefone iphoneTel = new Telefone();
+	iphoneTel.atender();
+	iphoneTel.ligar(null);
+	iphoneTel.iniciarCorreioVoz();
+	
+	PaginaInternet iphonet = new PaginaInternet();
+	
+	iphonet.adicionarNovaAba();
+	iphonet.exibirPagina(null);
+	iphonet.atualizarPagina();
+	
+	
+			
+	}
+
+}

@@ -1,0 +1,6 @@
+
+public interface Tocador {
+	 
+		  public void play();
+	 
+}

@@ -1,0 +1,8 @@
+package internet;
+
+public class PaginaInternet implements NavegadorInternet{
+	
+	public void PaginaInternet() {System.out.printl("Conectado a intenet")}
+	
+
+}

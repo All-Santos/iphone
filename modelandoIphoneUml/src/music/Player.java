@@ -1,0 +1,21 @@
+package music;
+
+abstract class Player implements Tocador {
+
+	
+
+	public void tocar() {
+		System.out.print("--Tocando musica--> ");
+		
+	}
+	public void selecionarMusica(String musica){
+		
+	}
+	public void pausar(){
+		System.out.print("--Parando a musica-- ");
+	}
+
+
+
+
+}

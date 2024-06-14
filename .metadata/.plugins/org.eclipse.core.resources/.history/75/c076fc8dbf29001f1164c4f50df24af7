@@ -1,0 +1,13 @@
+package modelandoIphoneUml;
+import music.Player;
+
+public class Iphone {
+	public static void main(String[] args) {
+		Player iphone = new Player();
+		
+		iphone.play();
+		
+
+	}
+
+}

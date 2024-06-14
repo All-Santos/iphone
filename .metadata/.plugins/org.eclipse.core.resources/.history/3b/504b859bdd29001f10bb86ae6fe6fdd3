@@ -1,0 +1,11 @@
+package music;
+
+abstract class Player implements Tocador {
+
+	
+	public Player() {}
+
+
+
+
+}

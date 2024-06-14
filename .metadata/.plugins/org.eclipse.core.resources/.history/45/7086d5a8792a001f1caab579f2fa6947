@@ -1,0 +1,14 @@
+package modelandoIphoneUml;
+import music.ReprodutorMusical;
+
+public class Iphone {
+	public static void main(String[] args) {
+		
+		
+	ReprodutorMusical ip =new ReprodutorMusical();
+	ip.play();
+		
+			
+	}
+
+}

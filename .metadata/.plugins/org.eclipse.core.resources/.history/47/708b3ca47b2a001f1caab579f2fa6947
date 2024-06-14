@@ -1,0 +1,10 @@
+package music;
+
+public interface Tocador {
+	 
+		  public void play();
+		  public void nest();
+		  public void stop();
+		 
+	 
+}
